@@ -1,1 +1,2 @@
 Cambio inicial para la gestión de perfiles
+Segundo cambio en la gestión de perfiles
